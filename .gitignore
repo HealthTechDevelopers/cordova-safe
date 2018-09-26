@@ -2,3 +2,4 @@
 .DS_Store
 .gradle
 node_modules
+.history
